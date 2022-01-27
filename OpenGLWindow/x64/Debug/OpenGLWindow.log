@@ -1,0 +1,11 @@
+﻿  window_main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\Camera\OpenGLWindow\shader.h(159,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Camera\OpenGLWindow\window_main.cpp(218,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Camera\OpenGLWindow\window_main.cpp(312,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Camera\OpenGLWindow\window_main.cpp(313,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Camera\OpenGLWindow\window_main.cpp(317,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Camera\OpenGLWindow\window_main.cpp(318,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Camera\OpenGLWindow\window_main.cpp(320,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Camera\OpenGLWindow\window_main.cpp(321,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Camera\OpenGLWindow\window_main.cpp(330,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLWindow.vcxproj -> C:\Users\tahmi\VS Projects\repos\OpenGL\Camera\x64\Debug\OpenGLWindow.exe
